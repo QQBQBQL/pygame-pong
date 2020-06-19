@@ -1,5 +1,5 @@
 # Simple Python Pong
-### A very simple Pong game made with Pygame 1.9.6 in Python 3.8.0 
+### A very simple Pong game made with Pygame in Python
 * Requires Python 3.0.0 and Pygame 1.9.6 or newer to run
 
 ###### *Made by QQBQBQL*
