@@ -3,4 +3,6 @@
 * Requires Python v3.0.0 and Pygame v1.9.6 or newer to run
 * Execute "pong.py" to run the game
 
+Created by following a tutorial.
+
 ###### *Maid with QQBQBQL*
